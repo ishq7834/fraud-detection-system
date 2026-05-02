@@ -28,4 +28,15 @@ This project detects fraudulent transactions using machine learning.
 https://fraud-detection-app.streamlit.app
 
 ## 📷 Screenshot
-(Add your app screenshot here)
+
+### 🧠 Dashboard Overview
+![Dashboard](dashboard.png)
+
+### 🚨 Fraud Detection Example
+![Fraud Case](fraud_case.png)
+
+### ✅ Normal Transaction Example
+![Normal Case](normal_case.png)
+
+### 📈 Transaction History
+![History](history_chart.png)
