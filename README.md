@@ -30,13 +30,13 @@ https://fraud-detection-app.streamlit.app
 ## 📷 Screenshot
 
 ### 🧠 Dashboard Overview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### 🚨 Fraud Detection Example
-![Fraud Case](fraud_case.png)
+![Fraud Case](Fraud_Case.png)
 
 ### ✅ Normal Transaction Example
-![Normal Case](normal_case.png)
+![Normal Case](Normal_Case.png)
 
 ### 📈 Transaction History
-![History](history_chart.png)
+![History](History.png)
