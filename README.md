@@ -25,7 +25,7 @@ This project detects fraudulent transactions using machine learning.
 - Recall: 86%
 
 ## 🌐 Live Demo
-(Will be added after deployment)
+https://fraud-detection-app.streamlit.app
 
 ## 📷 Screenshot
 (Add your app screenshot here)
